@@ -1,5 +1,3 @@
-## Oi, bom conhecê-lo 
-
 <img align="right" width="40%" src="https://media.giphy.com/media/iGpHt2H22k1orjgT9b/giphy.gif" alt="Basecamp sky" />
 <a href="https://github.com/fabiomacieira16">
   
@@ -8,9 +6,9 @@
   Sou Fábio Macieira. 🌊🌊🌊
 </p>
   
-##  Pessoais:
+##  Dados Pessoais:
 - 👩🏻‍🚀 Sou Desenvolvedor Full Stack;
-- 👩🏻‍💻 Atualmente trabalhando Full Stack Pague Menos :wink:;
+- 👩🏻‍💻 Atualmente trabalha na Pague Menos :wink:;
 - 🌱 Estudando React e TypeScript, C#, SQLServer; 
 - 💬 Pergunte-me sobre qualquer coisa, fico feliz em ajudar;
 
@@ -56,7 +54,7 @@
  
 ## Atividade de codificação
 <br/>
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=fabiomacieira16&show_icons=true&theme=dracula" alt="fabiomacieira16 github stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiomacieira16&layout=compact&langs_count=7&theme=dracula"/>
 </p>
