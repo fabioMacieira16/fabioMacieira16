@@ -60,9 +60,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=fabiomacieira16&show_icons=true&theme=dracula" alt="fabiomacieira16 github stats" />
 </p>
 <br/>
-<p align="right">
+<p align="left">
   <a href="https://badges.pufler.dev">
       <img src="https://badges.pufler.dev/visits/fabiomacieira16/fabiomacieira16" alt="Visitors badge" />
+      <img src="https://badges.pufler.dev/repos/fabiomacieira16/fabiomacieira16" alt="Repos badge" />
+      <img src="https://badges.pufler.dev/updated/fabiomacieira16/fabiomacieira16" alt="updated badge" />
    </a>
 </p>
   
