@@ -13,9 +13,6 @@
 - 🌱 Estudando React e TypeScript, C#, SQLServer; 
 - 💬 Pergunte-me sobre qualquer coisa, fico feliz em ajudar;
 
-**Serviços de utilidade pública**
-<code><img height="32" src="https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png" alt="Postman"/></code>
-
 **DevOps**
 <code><img height="32" src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" alt="GitHub"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"/></code>
@@ -27,7 +24,6 @@
 <code><img height="32" src="https://232924.apps.zdusercontent.com/232924/assets/1579259063-9eaa196f4d4eeff0ff0c915b800a9730/logo.png" alt="ClickUp"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/notion-1693557-1442598.png" alt="Notion"/></code>
 
-### Minha pilha de desenvolvimento
 **Aplicativo e dados**
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aspnet/aspnet.png" alt="Aspnet"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" alt="Csharp"/></code>
@@ -38,21 +34,25 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
+<code><img height="32" src="https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png" alt="Postman"/></code>
 <br/><br/>
 
 ### Onde me encontrar:
-<a href="https://www.linkedin.com/in/fabio-macieira-1ba6321b1/">
-  <code><img alt="My linkedin" width="28" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg" /></code>
-</a>
-<a href="mailto:fabiomacieira16@icloud.com">
-  <code><img alt="My e-mail" width="32" src="https://www.flaticon.com/svg/static/icons/svg/324/324123.svg" /></code>
-</a>
-
-<a href="mailto:fabiomacieira16@icloud.com">
-  <code><img alt="My e-mail" width="32" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></code>
-</a>
-
-
+<div>
+  <a href="https://www.linkedin.com/in/fabio-macieira-1ba6321b1/">
+    <img alt="My linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:fabiomacieira16@icloud.com">
+    <img alt="My e-mail"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/fabiovitormacieira/">
+    <img alt="My Instragram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://bitbucket.org/macieira_fabio/workspace/projects/">
+    <img alt="My Bitbucket" src="https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white" />
+  </a>
+  
+ 
 ## Atividade de codificação
 <br/>
 <p align="left">
