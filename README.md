@@ -44,7 +44,7 @@
     <img alt="My linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:fabiomacieira16@icloud.com">
-    <img alt="My e-mail"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img alt="My e-mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/fabiovitormacieira/">
     <img alt="My Instragram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
@@ -56,18 +56,16 @@
  
 ## Atividade de codificação
 <br/>
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fabiomacieira16&show_icons=true&theme=dracula" alt="fabiomacieira16 github stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiomacieira16&layout=compact&langs_count=7&theme=dracula"/>
 </p>
 <br/>
 <p align="left">
   <a href="https://badges.pufler.dev">
-      <img src="https://badges.pufler.dev/visits/fabiomacieira16/fabiomacieira16" alt="Visitors badge" />
-      <img src="https://badges.pufler.dev/repos/fabiomacieira16/fabiomacieira16" alt="Repos badge" />
+      <img src="https://badges.pufler.dev/visits/fabiomacieira16/fabiomacieira16"  alt="Visitors badge" />
       <img src="https://badges.pufler.dev/updated/fabiomacieira16/fabiomacieira16" alt="updated badge" />
    </a>
 </p>
   
 ![Snake animation](https://github.com/fabiomacieira16/fabiomacieira16/blob/output/github-contribution-grid-snake.svg)
-  
-  
