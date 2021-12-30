@@ -65,3 +65,7 @@
       <img src="https://badges.pufler.dev/visits/fabiomacieira16/fabiomacieira16" alt="Visitors badge" />
    </a>
 </p>
+  
+![Snake animation](https://github.com/fabiomacieira16/fabiomacieira16/blob/output/github-contribution-grid-snake.svg)
+  
+  
