@@ -47,10 +47,7 @@
   <a href="https://www.instagram.com/fabiovitormacieira/">
     <img alt="My Instragram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://bitbucket.org/macieira_fabio/workspace/projects/">
-    <img alt="My Bitbucket" src="https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white" />
-  </a>
-  
+    
  
 ## Atividade de codificação
 <br/>
