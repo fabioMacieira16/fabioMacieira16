@@ -3,13 +3,13 @@
   
 ## Bem vindo a minha pagina!
 <p>
-  Sou Fábio Macieira. 🌊🌊🌊
+   Fábio Macieira. 🌊🌊🌊
 </p>
   
 ##  Dados Pessoais:
 - 👩🏻‍🚀 Sou Desenvolvedor Full Stack;
-- 👩🏻‍💻 Atualmente trabalha na Pague Menos :wink:;
-- 🌱 Estudando React e TypeScript, C#, SQLServer; 
+- 👩🏻‍💻 Atualmente Freelance :wink:;
+- 🌱 Stack: C#, React, TypeScript, Angularjs, SQLServer; 
 - 💬 Pergunte-me sobre qualquer coisa, fico feliz em ajudar;
 
 **DevOps**
