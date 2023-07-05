@@ -8,7 +8,7 @@
   
 ##  Dados Pessoais:
 - 👩🏻‍🚀 Sou Desenvolvedor Full Stack;
-- 👩🏻‍💻 Atualmente Freelance :wink:;
+- 👩🏻‍💻 Atualmente Freelance :wink: contribuíndo para o <a href="http://catblack.pro/Home">Fórum CatBlack</a> ;
 - 🌱 Stack: C#, React, TypeScript, Angularjs, SQLServer; 
 - 💬 Pergunte-me sobre qualquer coisa, fico feliz em ajudar;
 
