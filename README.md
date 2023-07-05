@@ -1,16 +1,21 @@
 <img align="right" width="40%" src="https://media.giphy.com/media/iGpHt2H22k1orjgT9b/giphy.gif" alt="Basecamp sky" />
 <a href="https://github.com/fabiomacieira16">
   
-## Bem vindo a minha pagina!
+## Bem vindo ao meu mundo 🌎!
 <p>
-   Fábio Macieira. 🌊🌊🌊
+  🌊🌊🌊 Fábio Macieira. 
 </p>
   
 ##  Dados Pessoais:
 - 👩🏻‍🚀 Sou Desenvolvedor Full Stack;
-- 👩🏻‍💻 Atualmente Freelance :wink: contribuíndo para o <a href="http://catblack.pro/Home">Fórum CatBlack</a> ;
+- 👩🏻‍💻 Atualmente Freelance :wink: contribuíndo para o <a href="http://catblack.pro/Home">Fórum CatBlack</a>;
 - 🌱 Stack: C#, React, TypeScript, Angularjs, SQLServer; 
 - 💬 Pergunte-me sobre qualquer coisa, fico feliz em ajudar;
+
+ **outro projetos publicados**
+  <a href="https://flapo.com.br/">Flapo - Ecomerce</a>;
+  <a href="https://mymovie-primeflix.netlify.app/">Prime Flix</a>;
+  <a href="https://fidelizbindemo.netlify.app">Sistema de fidelidade de clientes</a>;
 
 **DevOps**
 <code><img height="32" src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" alt="GitHub"/></code>
