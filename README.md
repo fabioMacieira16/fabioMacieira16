@@ -12,10 +12,16 @@
 - 🌱 Stack: C#, React, TypeScript, Angularjs, SQLServer; 
 - 💬 Pergunte-me sobre qualquer coisa, fico feliz em ajudar;
 
- **outro projetos publicados**
-  <a href="https://flapo.com.br/">Flapo - Ecomerce</a>;
-  <a href="https://mymovie-primeflix.netlify.app/">Prime Flix</a>;
-  <a href="https://fidelizbindemo.netlify.app">Sistema de fidelidade de clientes</a>;
+ **Outro projetos publicados**
+ <br>
+ <br>
+  👉 <a href="https://flapo.com.br/">Flapo</a>  - E-Commerce de vendas 
+  <br>
+  👉 <a href="https://mymovie-primeflix.netlify.app/">Prime Flix</a> - lançamento de filmes
+  <br>
+  👉 <a href="https://fidelizbindemo.netlify.app">FidelizBim</a> - Sistema de fidelidade de clientes
+  <br>
+  <br>
 
 **DevOps**
 <code><img height="32" src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" alt="GitHub"/></code>
