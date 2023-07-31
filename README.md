@@ -72,4 +72,3 @@
    </a>
 </p>
   
-![Snake animation](https://github.com/fabiomacieira16/fabiomacieira16/blob/output/github-contribution-grid-snake.svg)
