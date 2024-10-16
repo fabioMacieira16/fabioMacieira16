@@ -8,15 +8,12 @@
   
 ##  Dados Pessoais:
 - 👩🏻‍🚀 Sou Desenvolvedor Full Stack;
-- 👩🏻‍💻 Atualmente Freelance :wink: contribuíndo para o <a href="http://catblack.pro/Home">Fórum CatBlack</a>;
 - 🌱 Stack: C#, React, TypeScript, Angularjs, SQLServer; 
 - 💬 Pergunte-me sobre qualquer coisa, fico feliz em ajudar;
 
  **Outro projetos publicados**
  <br>
  <br>
-  👉 <a href="https://flapo.com.br/">Flapo</a>  - E-Commerce de vendas 
-  <br>
   👉 <a href="https://mymovie-primeflix.netlify.app/">Prime Flix</a> - lançamento de filmes
   <br>
   👉 <a href="https://fidelizbindemo.netlify.app">FidelizBim</a> - Sistema de fidelidade de clientes
@@ -47,15 +44,13 @@
 
 ### Onde me encontrar:
 <div>
-  <a href="[https://www.linkedin.com/in/fabio-macieira-1ba6321b1/](https://www.linkedin.com/in/fabiomacieira/)">
+  <a href="https://www.linkedin.com/in/fabiomacieira/">
     <img alt="My linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:fabiomacieira16@icloud.com">
     <img alt="My e-mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   
-    
- 
 ## Atividade de codificação
 <br/>
 <p align="left">
