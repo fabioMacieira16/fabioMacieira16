@@ -47,15 +47,13 @@
 
 ### Onde me encontrar:
 <div>
-  <a href="https://www.linkedin.com/in/fabio-macieira-1ba6321b1/">
+  <a href="[https://www.linkedin.com/in/fabio-macieira-1ba6321b1/](https://www.linkedin.com/in/fabiomacieira/)">
     <img alt="My linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:fabiomacieira16@icloud.com">
     <img alt="My e-mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/fabiovitormacieira/">
-    <img alt="My Instragram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+  
     
  
 ## Atividade de codificação
