@@ -64,4 +64,7 @@
       <img src="https://badges.pufler.dev/updated/fabiomacieira16/fabiomacieira16" alt="updated badge" />
    </a>
 </p>
-  
+
+<div align=center>
+  <img src="https://raw.githubusercontent.com/fabioMacieira16/fabioMacieira16/output/snake.svg" alt="Snake animation" />
+</div>
